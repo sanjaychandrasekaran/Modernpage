@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819149947930",
+    "project_id": "newmodernpage-7a282",
+    "storage_bucket": "newmodernpage-7a282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819149947930:android:a69bdab23e2525f93b7da3",
+        "android_client_info": {
+          "package_name": "com.sanjays.newmodernpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819149947930-01no2avircu93bq6g2kpajvf2d3uejdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAPG-5Q4o1XGse4SXnkLeJyFITXELI2m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819149947930-01no2avircu93bq6g2kpajvf2d3uejdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

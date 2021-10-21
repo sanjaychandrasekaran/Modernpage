@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.NewModernPage" parent="Theme.AppCompat.Light.NoActionBar">
+<!--        &lt;!&ndash; Primary brand color. &ndash;&gt;-->
+<!--        <item name="colorPrimary">#E91E63</item>-->
+<!--        <item name="colorPrimaryVariant">@color/</item>-->
+<!--        <item name="colorOnPrimary">@color/white</item>-->
+<!--&lt;!&ndash;        &lt;!&ndash; Secondary brand color. &ndash;&gt;&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="colorSecondary">#03A9F4</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="colorSecondaryVariant">@color/black</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="colorOnSecondary">@color/black</item>&ndash;&gt;-->
+<!--&lt;!&ndash;        &lt;!&ndash; Status bar color. &ndash;&gt;&ndash;&gt;-->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/black</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+</resources>
